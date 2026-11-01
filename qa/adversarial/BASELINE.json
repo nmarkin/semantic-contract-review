@@ -1,0 +1,2395 @@
+{
+  "source": "Stage 4.2A JUnit; identities and outcomes only; no local tracebacks",
+  "tests": [
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[chain-2026-02-02]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[chain-2026-02-06]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[chain-2026-02-20]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[chain-2026-03-06]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[chain-2026-03-11]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[chain-2026-03-21]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[late-signature-2026-02-10]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[late-signature-2026-02-19]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[late-signature-2026-02-20]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[future-effect]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[exact-effective-day]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[same-date-different]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[same-date-equal]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[independent-fields]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[later-same-field]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[later-other-field]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[signed-plus-proposal]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[two-proposals-one-paragraph]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[later-unsigned]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[letter-wrong-old-date]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[contradictory-signing]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[two-bases]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[supplier-conflict]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[two-contract-links]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[missing-base]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[duplicate-content]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[same-filename]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[unknown-dispatch]",
+      "outcome": "failed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[unknown-completion]",
+      "outcome": "failed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[price-increment]",
+      "outcome": "failed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[relative-deadline]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[conflicting-amounts]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[missing-spec-budget]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-000-late-signature-2026-02-19]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-001-future-effect]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-002-exact-effective-day]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-003-same-date-different]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-004-same-date-equal]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-005-independent-fields]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-006-later-same-field]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-007-later-other-field]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-008-late-signature-2026-02-19]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-009-future-effect]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-010-exact-effective-day]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-011-same-date-different]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-012-same-date-equal]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-013-independent-fields]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-014-later-same-field]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-015-later-other-field]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-016-late-signature-2026-02-19]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-017-future-effect]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-018-exact-effective-day]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-019-same-date-different]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-020-same-date-equal]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-021-independent-fields]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-022-later-same-field]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-023-later-other-field]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-024-late-signature-2026-02-19]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-025-future-effect]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-026-exact-effective-day]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-027-same-date-different]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-028-same-date-equal]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-029-independent-fields]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-030-later-same-field]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-031-later-other-field]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-032-late-signature-2026-02-19]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-033-future-effect]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-034-exact-effective-day]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-035-same-date-different]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-036-same-date-equal]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-037-independent-fields]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-038-later-same-field]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-039-later-other-field]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-040-late-signature-2026-02-19]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-041-future-effect]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-042-exact-effective-day]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-043-same-date-different]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-044-same-date-equal]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-045-independent-fields]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-046-later-same-field]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-047-later-other-field]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-048-late-signature-2026-02-19]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-049-future-effect]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-050-exact-effective-day]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-051-same-date-different]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-052-same-date-equal]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-053-independent-fields]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-054-later-same-field]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-055-later-other-field]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-056-late-signature-2026-02-19]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-057-future-effect]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-058-exact-effective-day]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-059-same-date-different]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-060-same-date-equal]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-061-independent-fields]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-062-later-same-field]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-063-later-other-field]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-064-late-signature-2026-02-19]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-065-future-effect]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-066-exact-effective-day]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-067-same-date-different]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-068-same-date-equal]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-069-independent-fields]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-070-later-same-field]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-071-later-other-field]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-072-late-signature-2026-02-19]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-073-future-effect]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-074-exact-effective-day]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-075-same-date-different]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-076-same-date-equal]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-077-independent-fields]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-078-later-same-field]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-079-later-other-field]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-080-late-signature-2026-02-19]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-081-future-effect]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-082-exact-effective-day]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-083-same-date-different]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-084-same-date-equal]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-085-independent-fields]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-086-later-same-field]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-087-later-other-field]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-088-late-signature-2026-02-19]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-089-future-effect]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-090-exact-effective-day]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-091-same-date-different]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-092-same-date-equal]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-093-independent-fields]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-094-later-same-field]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-095-later-other-field]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-096-late-signature-2026-02-19]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-097-future-effect]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-098-exact-effective-day]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-099-same-date-different]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-100-same-date-equal]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-101-independent-fields]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-102-later-same-field]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-103-later-other-field]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-104-late-signature-2026-02-19]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-105-future-effect]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-106-exact-effective-day]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-107-same-date-different]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-108-same-date-equal]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-109-independent-fields]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-110-later-same-field]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-111-later-other-field]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-112-late-signature-2026-02-19]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-113-future-effect]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-114-exact-effective-day]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-115-same-date-different]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-116-same-date-equal]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-117-independent-fields]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-118-later-same-field]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-119-later-other-field]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-120-late-signature-2026-02-19]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-121-future-effect]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-122-exact-effective-day]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-123-same-date-different]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-124-same-date-equal]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-125-independent-fields]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-126-later-same-field]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-127-later-other-field]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-128-late-signature-2026-02-19]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-129-future-effect]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-130-exact-effective-day]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-131-same-date-different]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-132-same-date-equal]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-133-independent-fields]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-134-later-same-field]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-135-later-other-field]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-136-late-signature-2026-02-19]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-137-future-effect]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-138-exact-effective-day]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-139-same-date-different]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-140-same-date-equal]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-141-independent-fields]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-142-later-same-field]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-143-later-other-field]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-144-late-signature-2026-02-19]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-145-future-effect]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-146-exact-effective-day]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-147-same-date-different]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-148-same-date-equal]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-149-independent-fields]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-150-later-same-field]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-151-later-other-field]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-152-late-signature-2026-02-19]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-153-future-effect]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-154-exact-effective-day]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-155-same-date-different]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-156-same-date-equal]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-157-independent-fields]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-158-later-same-field]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_independent_oracle_and_invariants[meta-159-later-other-field]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial",
+      "name": "test_frozen_inputs_and_oracle_are_unchanged",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial_ui",
+      "name": "test_chain_ui_and_html_snapshots[chain-2026-02-02]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial_ui",
+      "name": "test_chain_ui_and_html_snapshots[chain-2026-02-06]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial_ui",
+      "name": "test_chain_ui_and_html_snapshots[chain-2026-02-20]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial_ui",
+      "name": "test_chain_ui_and_html_snapshots[chain-2026-03-06]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial_ui",
+      "name": "test_chain_ui_and_html_snapshots[chain-2026-03-11]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial_ui",
+      "name": "test_chain_ui_and_html_snapshots[chain-2026-03-21]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial_ui",
+      "name": "test_chain_date_changes_do_not_reparse_and_source_dialog_is_exact",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial_ui",
+      "name": "test_future_proposals_are_explicitly_dated_in_user_status",
+      "outcome": "failed"
+    },
+    {
+      "classname": "tests.test_adversarial_ui",
+      "name": "test_superseded_conflict_is_identified_as_historical_in_user_cards",
+      "outcome": "failed"
+    },
+    {
+      "classname": "tests.test_adversarial_ui",
+      "name": "test_two_proposals_one_paragraph_and_mismatched_old_date",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_adversarial_ui",
+      "name": "test_count_represents_two_independent_proposals_not_one_document",
+      "outcome": "failed"
+    },
+    {
+      "classname": "tests.test_adversarial_ui",
+      "name": "test_two_sessions_same_name_do_not_share_conditions_or_uploads",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_app",
+      "name": "test_empty_application_and_default_date",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_app",
+      "name": "test_six_uploaded_documents_table_details_and_sources",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_app",
+      "name": "test_filter_keeps_letter_and_distinguishes_old_and_proposed_date",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_app",
+      "name": "test_as_of_changes_current_values",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_app",
+      "name": "test_modified_bytes_update_amount_deadline_and_filter",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_app",
+      "name": "test_new_contract_and_renamed_files_add_rows_without_special_cases",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_app",
+      "name": "test_unknown_signature_displays_review_not_old_values[\\u043f\\u043e\\u0434\\u043f\\u0438\\u0441\\u0430\\u043d\\u043e]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_app",
+      "name": "test_unknown_signature_displays_review_not_old_values[\\u0441\\u0442\\u0430\\u0442\\u0443\\u0441 \\u043d\\u0435\\u0438\\u0437\\u0432\\u0435\\u0441\\u0442\\u0435\\u043d]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_app",
+      "name": "test_ambiguous_amount_is_not_presented_as_confirmed",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_app",
+      "name": "test_failed_upload_clears_prior_results_and_allows_repair",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_app",
+      "name": "test_unknown_document_exposes_grouping_problem",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_app",
+      "name": "test_click_source_opens_full_document_at_exact_evidence",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_app",
+      "name": "test_wrong_encoding_can_be_corrected_in_ui",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_app",
+      "name": "test_clear_batch_button_removes_files_and_previous_results",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_app",
+      "name": "test_table_selection_survives_date_filter_and_rerun",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_app",
+      "name": "test_clear_then_example_starts_with_first_row",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_app",
+      "name": "test_example_reads_actual_bytes_and_can_be_replaced",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_app",
+      "name": "test_mixed_encodings_need_no_controls_and_manual_choice_survives_reruns",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_app",
+      "name": "test_details_are_collapsed_but_current_sources_are_one_click",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_app",
+      "name": "test_unexpected_error_is_human_readable_and_blocks_results",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_encoding",
+      "name": "test_supported_document_encodings[utf-8]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_encoding",
+      "name": "test_supported_document_encodings[cp1251]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_encoding",
+      "name": "test_supported_document_encodings[koi8-r]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_encoding",
+      "name": "test_supported_document_encodings[cp866]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_encoding",
+      "name": "test_bom_is_recognized_and_retained[utf-8-\\xef\\xbb\\xbf]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_encoding",
+      "name": "test_bom_is_recognized_and_retained[utf-16-le-\\xff\\xfe]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_encoding",
+      "name": "test_bom_is_recognized_and_retained[utf-32-be-\\x00\\x00\\xfe\\xff]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_encoding",
+      "name": "test_all_supplied_documents_are_detected_as_windows1251",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_encoding",
+      "name": "test_mixed_encoding_batch_uses_each_files_own_codec",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_encoding",
+      "name": "test_unreadable_data_is_not_silently_replaced[]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_encoding",
+      "name": "test_unreadable_data_is_not_silently_replaced[\\x00\\x01\\xff]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_encoding",
+      "name": "test_unreadable_data_is_not_silently_replaced[\\xff\\xfe\\x00]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_encoding",
+      "name": "test_unreadable_data_is_not_silently_replaced[\\x00\\x01\\x02\\x03\\x04\\x05\\x06\\x07\\x08\\t\\n\\x0b\\x0c\\r\\x0e\\x0f\\x10\\x11\\x12\\x13\\x14\\x15\\x16\\x17\\x18\\x19\\x1a\\x1b\\x1c\\x1d\\x1e\\x1f !\"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\]^_`abcdefghijklmnopqrstuvwxyz{|}~\\x7f\\x80\\x81\\x82\\x83\\x84\\x85\\x86\\x87\\x88\\x89\\x8a\\x8b\\x8c\\x8d\\x8e\\x8f\\x90\\x91\\x92\\x93\\x94\\x95\\x96\\x97\\x98\\x99\\x9a\\x9b\\x9c\\x9d\\x9e\\x9f\\xa0\\xa1\\xa2\\xa3\\xa4\\xa5\\xa6\\xa7\\xa8\\xa9\\xaa\\xab\\xac\\xad\\xae\\xaf\\xb0\\xb1\\xb2\\xb3\\xb4\\xb5\\xb6\\xb7\\xb8\\xb9\\xba\\xbb\\xbc\\xbd\\xbe\\xbf\\xc0\\xc1\\xc2\\xc3\\xc4\\xc5\\xc6\\xc7\\xc8\\xc9\\xca\\xcb\\xcc\\xcd\\xce\\xcf\\xd0\\xd1\\xd2\\xd3\\xd4\\xd5\\xd6\\xd7\\xd8\\xd9\\xda\\xdb\\xdc\\xdd\\xde\\xdf\\xe0\\xe1\\xe2\\xe3\\xe4\\xe5\\xe6\\xe7\\xe8\\xe9\\xea\\xeb\\xec\\xed\\xee\\xef\\xf0\\xf1\\xf2\\xf3\\xf4\\xf5\\xf6\\xf7\\xf8\\xf9\\xfa\\xfb\\xfc\\xfd\\xfe\\xff]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_encoding",
+      "name": "test_unreadable_data_is_not_silently_replaced[\\x89PNG\\r\\n\\x1a\\n]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_encoding",
+      "name": "test_successful_legacy_decoding_alone_is_not_confidence",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_encoding",
+      "name": "test_manual_fix_is_explicit_per_file_and_retains_other_files",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_encoding",
+      "name": "test_manual_decoding_never_allows_controls_or_lossy_replacement",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_encoding",
+      "name": "test_override_identity_distinguishes_same_filename_different_bytes",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_examples",
+      "name": "test_supplied_contracts_and_amendments[01_contract.txt-contract-STN-101-\\u041e\\u041e\\u041e \\xab\\u0412\\u0435\\u043a\\u0442\\u043e\\u0440 \\u041f\\u0440\\u0438\\u0431\\u043e\\u0440\\xbb-amount0-deadline0-both_parties]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_examples",
+      "name": "test_supplied_contracts_and_amendments[02_amendment_signed.txt-signed_amendment-STN-101-\\u041e\\u041e\\u041e \\xab\\u0412\\u0435\\u043a\\u0442\\u043e\\u0440 \\u041f\\u0440\\u0438\\u0431\\u043e\\u0440\\xbb-amount1-deadline1-both_parties]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_examples",
+      "name": "test_supplied_contracts_and_amendments[03_contract.txt-contract-STN-102-\\u041e\\u041e\\u041e \\xab\\u041a\\u043e\\u043d\\u0442\\u0443\\u0440 \\u042d\\u043b\\u0435\\u043a\\u0442\\u0440\\u043e\\xbb-amount2-deadline2-both_parties]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_examples",
+      "name": "test_supplied_contracts_and_amendments[04_contract.txt-contract-STN-103-\\u041e\\u041e\\u041e \\xab\\u041f\\u0440\\u043e\\u043c\\u0421\\u043d\\u0430\\u0431 \\u0421\\u0435\\u0440\\u0432\\u0438\\u0441\\xbb-None-deadline3-both_parties]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_examples",
+      "name": "test_supplied_contracts_and_amendments[06_amendment_draft.txt-unsigned_draft-STN-101-\\u041e\\u041e\\u041e \\xab\\u0412\\u0435\\u043a\\u0442\\u043e\\u0440 \\u041f\\u0440\\u0438\\u0431\\u043e\\u0440\\xbb-amount4-deadline4-unsigned]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_examples",
+      "name": "test_supplier_letter_is_proposal_and_retains_previous_date",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_examples",
+      "name": "test_dates_are_not_invented_from_document_or_review_date",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_examples",
+      "name": "test_terms_have_roles_and_full_context[01_contract.txt-original_term]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_examples",
+      "name": "test_terms_have_roles_and_full_context[02_amendment_signed.txt-amendment_term]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_examples",
+      "name": "test_terms_have_roles_and_full_context[06_amendment_draft.txt-proposal]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_examples",
+      "name": "test_all_examples_have_exact_evidence_and_filename_independence",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_extractor",
+      "name": "test_new_contract_without_changes_to_code",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_extractor",
+      "name": "test_money_distractors_do_not_become_totals[\\u0410\\u0432\\u0430\\u043d\\u0441\\u043e\\u0432\\u044b\\u0439 \\u043f\\u043b\\u0430\\u0442\\u0435\\u0436 \\u0441\\u043e\\u0441\\u0442\\u0430\\u0432\\u043b\\u044f\\u0435\\u0442 200 000 \\u0440\\u0443\\u0431\\u043b\\u0435\\u0439 \\u0438 \\u0432\\u0445\\u043e\\u0434\\u0438\\u0442 \\u0432 \\u043e\\u0431\\u0449\\u0443\\u044e \\u0441\\u0442\\u043e\\u0438\\u043c\\u043e\\u0441\\u0442\\u044c \\u0434\\u043e\\u0433\\u043e\\u0432\\u043e\\u0440\\u0430.]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_extractor",
+      "name": "test_money_distractors_do_not_become_totals[\\u041b\\u0438\\u043c\\u0438\\u0442 \\u0437\\u0430\\u043a\\u0443\\u043f\\u043a\\u0438 \\u2014 700 000 \\u0440\\u0443\\u0431\\u043b\\u0435\\u0439. \\u042d\\u0442\\u043e\\u0442 \\u043b\\u0438\\u043c\\u0438\\u0442 \\u043d\\u0435 \\u044f\\u0432\\u043b\\u044f\\u0435\\u0442\\u0441\\u044f \\u0441\\u0442\\u043e\\u0438\\u043c\\u043e\\u0441\\u0442\\u044c\\u044e \\u0434\\u043e\\u0433\\u043e\\u0432\\u043e\\u0440\\u0430.]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_extractor",
+      "name": "test_money_distractors_do_not_become_totals[\\u041d\\u0435\\u0443\\u0441\\u0442\\u043e\\u0439\\u043a\\u0430 \\u0441\\u043e\\u0441\\u0442\\u0430\\u0432\\u043b\\u044f\\u0435\\u0442 12 000 \\u0440\\u0443\\u0431\\u043b\\u0435\\u0439.]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_extractor",
+      "name": "test_money_distractors_do_not_become_totals[\\u041e\\u0431\\u0449\\u0430\\u044f \\u0441\\u0442\\u043e\\u0438\\u043c\\u043e\\u0441\\u0442\\u044c \\u043e\\u043f\\u0440\\u0435\\u0434\\u0435\\u043b\\u044f\\u0435\\u0442\\u0441\\u044f \\u0441\\u043f\\u0435\\u0446\\u0438\\u0444\\u0438\\u043a\\u0430\\u0446\\u0438\\u0435\\u0439 \\u0432 \\u043f\\u0440\\u0438\\u043b\\u043e\\u0436\\u0435\\u043d\\u0438\\u0438 \\u2116 3.]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_extractor",
+      "name": "test_money_distractors_do_not_become_totals[\\u041e\\u0431\\u0449\\u0430\\u044f \\u0441\\u0442\\u043e\\u0438\\u043c\\u043e\\u0441\\u0442\\u044c \\u0434\\u043e\\u0433\\u043e\\u0432\\u043e\\u0440\\u0430 \\u043d\\u0435 \\u0441\\u043e\\u0441\\u0442\\u0430\\u0432\\u043b\\u044f\\u0435\\u0442 400 000 \\u0440\\u0443\\u0431\\u043b\\u0435\\u0439.]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_extractor",
+      "name": "test_money_distractors_do_not_become_totals[\\u041e\\u0431\\u0449\\u0430\\u044f \\u0441\\u0442\\u043e\\u0438\\u043c\\u043e\\u0441\\u0442\\u044c \\u0434\\u043e\\u0433\\u043e\\u0432\\u043e\\u0440\\u0430 \\u043d\\u0435 \\u0443\\u043a\\u0430\\u0437\\u0430\\u043d\\u0430.]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_extractor",
+      "name": "test_non_delivery_dates_are_not_deadlines[\\u041e\\u043f\\u043b\\u0430\\u0442\\u0430 \\u043f\\u0440\\u043e\\u0438\\u0437\\u0432\\u043e\\u0434\\u0438\\u0442\\u0441\\u044f \\u043d\\u0435 \\u043f\\u043e\\u0437\\u0434\\u043d\\u0435\\u0435 18.11.2030.]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_extractor",
+      "name": "test_non_delivery_dates_are_not_deadlines[\\u0414\\u0430\\u0442\\u0430 \\u043f\\u0440\\u0438\\u0435\\u043c\\u043a\\u0438: 18.11.2030.]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_extractor",
+      "name": "test_non_delivery_dates_are_not_deadlines[\\u041d\\u0430\\u0441\\u0442\\u043e\\u044f\\u0449\\u0438\\u0439 \\u0434\\u043e\\u0433\\u043e\\u0432\\u043e\\u0440 \\u0432\\u0441\\u0442\\u0443\\u043f\\u0430\\u0435\\u0442 \\u0432 \\u0441\\u0438\\u043b\\u0443 18.11.2030.]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_extractor",
+      "name": "test_non_delivery_dates_are_not_deadlines[\\u041e\\u043f\\u043b\\u0430\\u0442\\u0430 \\u043f\\u043e\\u0441\\u043b\\u0435 \\u043f\\u043e\\u0441\\u0442\\u0430\\u0432\\u043a\\u0438 \\u043f\\u0440\\u043e\\u0438\\u0437\\u0432\\u043e\\u0434\\u0438\\u0442\\u0441\\u044f \\u0434\\u043e 18.11.2030.]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_extractor",
+      "name": "test_non_delivery_dates_are_not_deadlines[\\u0414\\u0430\\u0442\\u0430 \\u043f\\u0440\\u0438\\u0435\\u043c\\u043a\\u0438 18.11.2030 \\u043d\\u0435 \\u0438\\u0437\\u043c\\u0435\\u043d\\u044f\\u0435\\u0442 \\u0441\\u0440\\u043e\\u043a \\u043f\\u043e\\u0441\\u0442\\u0430\\u0432\\u043a\\u0438.]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_extractor",
+      "name": "test_non_delivery_dates_are_not_deadlines[\\u0421\\u0440\\u043e\\u043a \\u043e\\u043f\\u043b\\u0430\\u0442\\u044b \\u2014 18.11.2030, \\u0430 \\u043d\\u0435 \\u0441\\u0440\\u043e\\u043a \\u043f\\u043e\\u0441\\u0442\\u0430\\u0432\\u043a\\u0438.]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_extractor",
+      "name": "test_non_delivery_dates_are_not_deadlines[\\u041d\\u0435\\u0443\\u0441\\u0442\\u043e\\u0439\\u043a\\u0430 \\u0437\\u0430 \\u043f\\u0440\\u043e\\u0441\\u0440\\u043e\\u0447\\u043a\\u0443 \\u043f\\u043e\\u0441\\u0442\\u0430\\u0432\\u043a\\u0438 \\u043d\\u0430\\u0447\\u0438\\u0441\\u043b\\u044f\\u0435\\u0442\\u0441\\u044f \\u0434\\u043e 18.11.2030.]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_extractor",
+      "name": "test_payment_and_delivery_in_same_paragraph_remain_distinct",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_extractor",
+      "name": "test_unsupported_or_ambiguous_values_are_explicit[\\u0421\\u0440\\u043e\\u043a \\u043f\\u043e\\u0441\\u0442\\u0430\\u0432\\u043a\\u0438: 31.02.2030.-delivery_deadline]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_extractor",
+      "name": "test_unsupported_or_ambiguous_values_are_explicit[\\u0421\\u0440\\u043e\\u043a \\u043f\\u043e\\u0441\\u0442\\u0430\\u0432\\u043a\\u0438 \\u2014 \\u0432 \\u0442\\u0435\\u0447\\u0435\\u043d\\u0438\\u0435 30 \\u0434\\u043d\\u0435\\u0439 \\u043f\\u043e\\u0441\\u043b\\u0435 \\u043e\\u043f\\u043b\\u0430\\u0442\\u044b.-delivery_deadline]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_extractor",
+      "name": "test_unsupported_or_ambiguous_values_are_explicit[\\u0421\\u0440\\u043e\\u043a \\u043f\\u043e\\u0441\\u0442\\u0430\\u0432\\u043a\\u0438: \\u0437\\u0430\\u0432\\u0442\\u0440\\u0430.-delivery_deadline]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_extractor",
+      "name": "test_unsupported_or_ambiguous_values_are_explicit[\\u041e\\u0431\\u0449\\u0430\\u044f \\u0441\\u0442\\u043e\\u0438\\u043c\\u043e\\u0441\\u0442\\u044c \\u0434\\u043e\\u0433\\u043e\\u0432\\u043e\\u0440\\u0430 \\u0441\\u043e\\u0441\\u0442\\u0430\\u0432\\u043b\\u044f\\u0435\\u0442 450 000 \\u0434\\u043e\\u043b\\u043b\\u0430\\u0440\\u043e\\u0432.-total_amount]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_extractor",
+      "name": "test_unsupported_or_ambiguous_values_are_explicit[\\u041e\\u0431\\u0449\\u0430\\u044f \\u0441\\u0442\\u043e\\u0438\\u043c\\u043e\\u0441\\u0442\\u044c \\u0434\\u043e\\u0433\\u043e\\u0432\\u043e\\u0440\\u0430 \\u0441\\u043e\\u0441\\u0442\\u0430\\u0432\\u043b\\u044f\\u0435\\u0442 1 20 000 \\u0440\\u0443\\u0431\\u043b\\u0435\\u0439.-total_amount]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_extractor",
+      "name": "test_unsupported_or_ambiguous_values_are_explicit[\\u041f\\u043e\\u0441\\u0442\\u0430\\u0432\\u0449\\u0438\\u043a: \\u041e\\u041e\\u041e \\xab\\u041f\\u0435\\u0440\\u0432\\u044b\\u0439\\xbb \\u0438\\u043b\\u0438 \\u041e\\u041e\\u041e \\xab\\u0412\\u0442\\u043e\\u0440\\u043e\\u0439\\xbb.-supplier]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_extractor",
+      "name": "test_competing_values_preserved_without_selection[\\u041e\\u0431\\u0449\\u0430\\u044f \\u0441\\u0442\\u043e\\u0438\\u043c\\u043e\\u0441\\u0442\\u044c \\u0434\\u043e\\u0433\\u043e\\u0432\\u043e\\u0440\\u0430 \\u0441\\u043e\\u0441\\u0442\\u0430\\u0432\\u043b\\u044f\\u0435\\u0442 100 \\u0440\\u0443\\u0431\\u043b\\u0435\\u0439.\\n\\n\\u041e\\u0431\\u0449\\u0430\\u044f \\u0441\\u0442\\u043e\\u0438\\u043c\\u043e\\u0441\\u0442\\u044c \\u0434\\u043e\\u0433\\u043e\\u0432\\u043e\\u0440\\u0430 \\u0441\\u043e\\u0441\\u0442\\u0430\\u0432\\u043b\\u044f\\u0435\\u0442 200 \\u0440\\u0443\\u0431\\u043b\\u0435\\u0439.-total_amount-values0]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_extractor",
+      "name": "test_competing_values_preserved_without_selection[\\u041e\\u0431\\u0449\\u0430\\u044f \\u0441\\u0442\\u043e\\u0438\\u043c\\u043e\\u0441\\u0442\\u044c \\u0434\\u043e\\u0433\\u043e\\u0432\\u043e\\u0440\\u0430 \\u0441\\u043e\\u0441\\u0442\\u0430\\u0432\\u043b\\u044f\\u0435\\u0442 100 \\u0440\\u0443\\u0431\\u043b\\u0435\\u0439 \\u0438\\u043b\\u0438 200 \\u0440\\u0443\\u0431\\u043b\\u0435\\u0439.-total_amount-values1]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_extractor",
+      "name": "test_competing_values_preserved_without_selection[\\u0421\\u0440\\u043e\\u043a \\u043f\\u043e\\u0441\\u0442\\u0430\\u0432\\u043a\\u0438: 01.08.2030.\\n\\n\\u0421\\u0440\\u043e\\u043a \\u043f\\u043e\\u0441\\u0442\\u0430\\u0432\\u043a\\u0438: 02.08.2030.-delivery_deadline-values2]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_extractor",
+      "name": "test_competing_values_preserved_without_selection[\\u0421\\u0440\\u043e\\u043a \\u043f\\u043e\\u0441\\u0442\\u0430\\u0432\\u043a\\u0438: 01.08.2030 \\u0438\\u043b\\u0438 02.08.2030.-delivery_deadline-values3]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_extractor",
+      "name": "test_competing_values_preserved_without_selection[\\u041f\\u043e\\u0441\\u0442\\u0430\\u0432\\u0449\\u0438\\u043a: \\u041e\\u041e\\u041e \\xab\\u041f\\u0435\\u0440\\u0432\\u044b\\u0439\\xbb.\\n\\n\\u041f\\u043e\\u0441\\u0442\\u0430\\u0432\\u0449\\u0438\\u043a: \\u041e\\u041e\\u041e \\xab\\u0412\\u0442\\u043e\\u0440\\u043e\\u0439\\xbb.-supplier-values4]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_extractor",
+      "name": "test_proposal_inside_contract_is_not_original_term",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_extractor",
+      "name": "test_unknown_document_does_not_acquire_legal_role",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_extractor",
+      "name": "test_tax_and_advance_in_same_sentence_are_not_total_candidates",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_extractor",
+      "name": "test_repeated_supplier_label_on_one_line_preserves_conflict",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_insights_report",
+      "name": "test_precise_statuses_and_actionable_attention",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_insights_report",
+      "name": "test_insights_use_history_and_recalculate_by_date_and_bytes",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_insights_report",
+      "name": "test_unknown_current_is_never_used_for_insight_difference",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_insights_report",
+      "name": "test_difference_requires_comparable_confirmed_units",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_insights_report",
+      "name": "test_html_report_is_complete_offline_and_has_resolving_source_links",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_insights_report",
+      "name": "test_html_escapes_names_supplier_and_source_payloads",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_insights_report",
+      "name": "test_distinct_sources_for_equal_value_survive_report",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_insights_report",
+      "name": "test_export_rejects_a_quote_with_incorrect_offsets",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_insights_report",
+      "name": "test_ui_export_uses_current_cached_report_without_extraction",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_launcher",
+      "name": "test_ready_environment_is_not_reinstalled",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_launcher",
+      "name": "test_missing_environment_created_and_dependencies_installed",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_launcher",
+      "name": "test_broken_existing_environment_is_not_overwritten",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_launcher",
+      "name": "test_occupied_port_is_detected_without_killing_owner",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_launcher",
+      "name": "test_failed_install_returns_actionable_error",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_launcher",
+      "name": "test_browser_opens_only_after_healthy_local_server",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_launcher",
+      "name": "test_busy_port_chooses_next_without_touching_owner",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_launcher",
+      "name": "test_no_free_port_is_actionable",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_launcher",
+      "name": "test_stale_html_health_does_not_open_browser",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_launcher",
+      "name": "test_exited_server_never_opens_browser",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_launcher",
+      "name": "test_broken_app_stops_before_server_without_reinstall",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_launcher",
+      "name": "test_each_launch_has_new_route_and_current_interpreter",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_launcher",
+      "name": "test_real_import_error_is_diagnosed_without_logging_exception_contents",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_parser",
+      "name": "test_original_text_and_offsets_preserve_bom_crlf_unicode_and_whitespace",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_parser",
+      "name": "test_explicit_encoding_without_silent_replacement",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_parser",
+      "name": "test_no_fabricated_values[]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_parser",
+      "name": "test_no_fabricated_values[\\r\\n  \\n\\t]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_parser",
+      "name": "test_no_fabricated_values[\\u041f\\u0440\\u043e\\u0438\\u0437\\u0432\\u043e\\u043b\\u044c\\u043d\\u0430\\u044f \\u0437\\u0430\\u043c\\u0435\\u0442\\u043a\\u0430 \\u0431\\u0435\\u0437 \\u0443\\u0441\\u043b\\u043e\\u0432\\u0438\\u0439.]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_parser",
+      "name": "test_signature_negations_and_uncertainty[\\u043f\\u043e\\u0434\\u043f\\u0438\\u0441\\u0430\\u043d\\u043e \\u043e\\u0431\\u0435\\u0438\\u043c\\u0438 \\u0441\\u0442\\u043e\\u0440\\u043e\\u043d\\u0430\\u043c\\u0438-both_parties-signed_amendment-confident]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_parser",
+      "name": "test_signature_negations_and_uncertainty[\\u043d\\u0435 \\u043f\\u043e\\u0434\\u043f\\u0438\\u0441\\u0430\\u043d\\u043e \\u043d\\u0438 \\u043e\\u0434\\u043d\\u043e\\u0439 \\u0441\\u0442\\u043e\\u0440\\u043e\\u043d\\u043e\\u0439-unsigned-unsigned_draft-confident]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_parser",
+      "name": "test_signature_negations_and_uncertainty[\\u043d\\u0435 \\u043f\\u043e\\u0434\\u043f\\u0438\\u0441\\u0430\\u043d\\u043e \\u043e\\u0431\\u0435\\u0438\\u043c\\u0438 \\u0441\\u0442\\u043e\\u0440\\u043e\\u043d\\u0430\\u043c\\u0438-not_both_parties-unsigned_draft-confident]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_parser",
+      "name": "test_signature_negations_and_uncertainty[\\u043f\\u043e\\u0434\\u043f\\u0438\\u0441\\u0430\\u043d\\u043e \\u0442\\u043e\\u043b\\u044c\\u043a\\u043e \\u043e\\u0434\\u043d\\u043e\\u0439 \\u0441\\u0442\\u043e\\u0440\\u043e\\u043d\\u043e\\u0439-not_both_parties-unsigned_draft-confident]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_parser",
+      "name": "test_signature_negations_and_uncertainty[\\u043f\\u043e\\u0434\\u043f\\u0438\\u0441\\u0430\\u043d\\u043e-signed_unspecified-unknown-ambiguous]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_parser",
+      "name": "test_signature_negations_and_uncertainty[\\u043d\\u0430 \\u0441\\u043e\\u0433\\u043b\\u0430\\u0441\\u043e\\u0432\\u0430\\u043d\\u0438\\u0438-None-unknown-ambiguous]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_parser",
+      "name": "test_signature_negations_and_uncertainty[\\u0431\\u0443\\u0434\\u0435\\u0442 \\u043f\\u043e\\u0434\\u043f\\u0438\\u0441\\u0430\\u043d\\u043e \\u043e\\u0431\\u0435\\u0438\\u043c\\u0438 \\u0441\\u0442\\u043e\\u0440\\u043e\\u043d\\u0430\\u043c\\u0438-None-unknown-ambiguous]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_parser",
+      "name": "test_signature_negations_and_uncertainty[\\u043f\\u043e\\u0434\\u043f\\u0438\\u0441\\u0430\\u043d\\u043e \\u043e\\u0431\\u0435\\u0438\\u043c\\u0438 \\u0441\\u0442\\u043e\\u0440\\u043e\\u043d\\u0430\\u043c\\u0438, \\u0447\\u0442\\u043e \\u043d\\u0435 \\u043f\\u043e\\u0434\\u0442\\u0432\\u0435\\u0440\\u0436\\u0434\\u0435\\u043d\\u043e-None-unknown-ambiguous]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_parser",
+      "name": "test_signature_negations_and_uncertainty[\\u043d\\u0435 \\u0431\\u044b\\u043b \\u043f\\u043e\\u0434\\u043f\\u0438\\u0441\\u0430\\u043d \\u043d\\u0438 \\u043e\\u0434\\u043d\\u043e\\u0439 \\u0441\\u0442\\u043e\\u0440\\u043e\\u043d\\u043e\\u0439-unsigned-unsigned_draft-confident]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_parser",
+      "name": "test_signature_negations_and_uncertainty[\\u043d\\u0435 \\u043f\\u043e\\u0434\\u043f\\u0438\\u0441\\u0430\\u043d\\u043e \\u043f\\u043e\\u0441\\u0442\\u0430\\u0432\\u0449\\u0438\\u043a\\u043e\\u043c-not_both_parties-unsigned_draft-confident]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_parser",
+      "name": "test_classification_abstains_on_conflicting_or_insufficient_evidence[\\u041f\\u0420\\u041e\\u0415\\u041a\\u0422 \\u0414\\u041e\\u041f\\u041e\\u041b\\u041d\\u0418\\u0422\\u0415\\u041b\\u042c\\u041d\\u041e\\u0413\\u041e \\u0421\\u041e\\u0413\\u041b\\u0410\\u0428\\u0415\\u041d\\u0418\\u042f\\n\\u0421\\u0442\\u0430\\u0442\\u0443\\u0441: \\u043f\\u043e\\u0434\\u043f\\u0438\\u0441\\u0430\\u043d\\u043e \\u043e\\u0431\\u0435\\u0438\\u043c\\u0438 \\u0441\\u0442\\u043e\\u0440\\u043e\\u043d\\u0430\\u043c\\u0438]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_parser",
+      "name": "test_classification_abstains_on_conflicting_or_insufficient_evidence[\\u0414\\u041e\\u041f\\u041e\\u041b\\u041d\\u0418\\u0422\\u0415\\u041b\\u042c\\u041d\\u041e\\u0415 \\u0421\\u041e\\u0413\\u041b\\u0410\\u0428\\u0415\\u041d\\u0418\\u0415\\n\\u0421\\u0442\\u0430\\u0442\\u0443\\u0441: \\u043d\\u0435 \\u043f\\u043e\\u0434\\u043f\\u0438\\u0441\\u0430\\u043d\\u043e; \\u043f\\u043e\\u0434\\u043f\\u0438\\u0441\\u0430\\u043d\\u043e \\u043e\\u0431\\u0435\\u0438\\u043c\\u0438 \\u0441\\u0442\\u043e\\u0440\\u043e\\u043d\\u0430\\u043c\\u0438]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_parser",
+      "name": "test_classification_abstains_on_conflicting_or_insufficient_evidence[\\u0414\\u041e\\u041f\\u041e\\u041b\\u041d\\u0418\\u0422\\u0415\\u041b\\u042c\\u041d\\u041e\\u0415 \\u0421\\u041e\\u0413\\u041b\\u0410\\u0428\\u0415\\u041d\\u0418\\u0415\\n\\u0421\\u0442\\u0430\\u0442\\u0443\\u0441: \\u043f\\u043e\\u0434\\u043f\\u0438\\u0441\\u0430\\u043d\\u043e \\u043e\\u0431\\u0435\\u0438\\u043c\\u0438 \\u0441\\u0442\\u043e\\u0440\\u043e\\u043d\\u0430\\u043c\\u0438; \\u043d\\u0435 \\u043f\\u043e\\u0434\\u043f\\u0438\\u0441\\u0430\\u043d\\u043e]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_parser",
+      "name": "test_classification_abstains_on_conflicting_or_insufficient_evidence[\\u0414\\u041e\\u041f\\u041e\\u041b\\u041d\\u0418\\u0422\\u0415\\u041b\\u042c\\u041d\\u041e\\u0415 \\u0421\\u041e\\u0413\\u041b\\u0410\\u0428\\u0415\\u041d\\u0418\\u0415\\n\\u0421\\u0442\\u0430\\u0442\\u0443\\u0441: \\u043f\\u043e\\u0434\\u043f\\u0438\\u0441\\u0430\\u043d\\u043e \\u043e\\u0431\\u0435\\u0438\\u043c\\u0438 \\u0441\\u0442\\u043e\\u0440\\u043e\\u043d\\u0430\\u043c\\u0438\\n\\u0421\\u0442\\u0430\\u0442\\u0443\\u0441: \\u043d\\u0435 \\u043f\\u043e\\u0434\\u043f\\u0438\\u0441\\u0430\\u043d\\u043e]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_parser",
+      "name": "test_classification_abstains_on_conflicting_or_insufficient_evidence[\\u0414\\u041e\\u041f\\u041e\\u041b\\u041d\\u0418\\u0422\\u0415\\u041b\\u042c\\u041d\\u041e\\u0415 \\u0421\\u041e\\u0413\\u041b\\u0410\\u0428\\u0415\\u041d\\u0418\\u0415\\n\\u0414\\u0430\\u0442\\u0430: 01.02.2030]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_parser",
+      "name": "test_classification_abstains_on_conflicting_or_insufficient_evidence[\\u0414\\u041e\\u0413\\u041e\\u0412\\u041e\\u0420 \\u041f\\u041e\\u0421\\u0422\\u0410\\u0412\\u041a\\u0418\\n\\n\\u041f\\u0418\\u0421\\u042c\\u041c\\u041e \\u041f\\u041e\\u0421\\u0422\\u0410\\u0412\\u0429\\u0418\\u041a\\u0410]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_parser",
+      "name": "test_multiple_contract_references_are_not_resolved",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_parser",
+      "name": "test_amount_or_duration_after_contract_is_not_an_identifier[\\u0421\\u0442\\u043e\\u0438\\u043c\\u043e\\u0441\\u0442\\u044c \\u0434\\u043e\\u0433\\u043e\\u0432\\u043e\\u0440\\u0430 123 000 \\u0440\\u0443\\u0431\\u043b\\u0435\\u0439.]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_parser",
+      "name": "test_amount_or_duration_after_contract_is_not_an_identifier[\\u0421\\u0443\\u043c\\u043c\\u0430 \\u0434\\u043e\\u0433\\u043e\\u0432\\u043e\\u0440\\u0430 987654 \\u0440\\u0443\\u0431\\u043b\\u0435\\u0439.]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_parser",
+      "name": "test_amount_or_duration_after_contract_is_not_an_identifier[\\u0411\\u044e\\u0434\\u0436\\u0435\\u0442 \\u0434\\u043e\\u0433\\u043e\\u0432\\u043e\\u0440\\u0430 456 \\u0440\\u0443\\u0431\\u043b\\u0435\\u0439.]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_parser",
+      "name": "test_amount_or_duration_after_contract_is_not_an_identifier[\\u0421\\u0440\\u043e\\u043a \\u0434\\u043e\\u0433\\u043e\\u0432\\u043e\\u0440\\u0430 30 \\u0434\\u043d\\u0435\\u0439.]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_parser",
+      "name": "test_identification_contexts_remain_supported[\\u0414\\u041e\\u0413\\u041e\\u0412\\u041e\\u0420 \\u041f\\u041e\\u0421\\u0422\\u0410\\u0412\\u041a\\u0418 \\u2116 \\u0410\\u0411-987/4-\\u0410\\u0411-987/4]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_parser",
+      "name": "test_identification_contexts_remain_supported[\\u0414\\u041e\\u0413\\u041e\\u0412\\u041e\\u0420 \\u041f\\u041e\\u0421\\u0422\\u0410\\u0412\\u041a\\u0418 987-987]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_parser",
+      "name": "test_identification_contexts_remain_supported[\\u0422\\u0435\\u043c\\u0430: \\u0434\\u043e\\u0433\\u043e\\u0432\\u043e\\u0440 X-123/7-X-123/7]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_parser",
+      "name": "test_identification_contexts_remain_supported[\\u041f\\u043e \\u0434\\u043e\\u0433\\u043e\\u0432\\u043e\\u0440\\u0443 123 \\u043f\\u0440\\u0435\\u0434\\u043b\\u0430\\u0433\\u0430\\u0435\\u043c \\u0438\\u0437\\u043c\\u0435\\u043d\\u0438\\u0442\\u044c \\u0441\\u0440\\u043e\\u043a.-123]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_parser",
+      "name": "test_identification_contexts_remain_supported[\\u0414\\u041e\\u041f\\u041e\\u041b\\u041d\\u0418\\u0422\\u0415\\u041b\\u042c\\u041d\\u041e\\u0415 \\u0421\\u041e\\u0413\\u041b\\u0410\\u0428\\u0415\\u041d\\u0418\\u0415 \\u2116 7 \\u041a \\u0414\\u041e\\u0413\\u041e\\u0412\\u041e\\u0420\\u0423 AB-456-AB-456]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_parser",
+      "name": "test_identification_contexts_remain_supported[\\u0421\\u0441\\u044b\\u043b\\u043a\\u0430 \\u043d\\u0430 \\u0434\\u043e\\u0433\\u043e\\u0432\\u043e\\u0440 \\u2116 ALPHA/BETA-ALPHA/BETA]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_parser",
+      "name": "test_dates_and_invalid_calendar_values",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_parser",
+      "name": "test_unrecognized_effective_date_is_not_missing",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_parser",
+      "name": "test_alternative_effective_dates_require_review",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_parser",
+      "name": "test_signing_date_is_separate_from_document_date",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_parser",
+      "name": "test_signing_date_never_falls_back_to_document_date[\\u043f\\u043e\\u0434\\u043f\\u0438\\u0441\\u0430\\u043d\\u043e \\u043e\\u0431\\u0435\\u0438\\u043c\\u0438 \\u0441\\u0442\\u043e\\u0440\\u043e\\u043d\\u0430\\u043c\\u0438.-missing]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_parser",
+      "name": "test_signing_date_never_falls_back_to_document_date[\\u043f\\u043e\\u0434\\u043f\\u0438\\u0441\\u0430\\u043d\\u043e \\u043e\\u0431\\u0435\\u0438\\u043c\\u0438 \\u0441\\u0442\\u043e\\u0440\\u043e\\u043d\\u0430\\u043c\\u0438. \\u041f\\u043e \\u0441\\u043e\\u0441\\u0442\\u043e\\u044f\\u043d\\u0438\\u044e \\u043d\\u0430 09.02.2030.-missing]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_parser",
+      "name": "test_signing_date_never_falls_back_to_document_date[\\u043d\\u0435 \\u043f\\u043e\\u0434\\u043f\\u0438\\u0441\\u0430\\u043d\\u043e \\u043e\\u0431\\u0435\\u0438\\u043c\\u0438 \\u0441\\u0442\\u043e\\u0440\\u043e\\u043d\\u0430\\u043c\\u0438 09.02.2030.-missing]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_parser",
+      "name": "test_signing_date_never_falls_back_to_document_date[\\u043f\\u043e\\u0434\\u043f\\u0438\\u0441\\u0430\\u043d\\u043e \\u043e\\u0431\\u0435\\u0438\\u043c\\u0438 \\u0441\\u0442\\u043e\\u0440\\u043e\\u043d\\u0430\\u043c\\u0438 31.02.2030.-ambiguous]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_parser",
+      "name": "test_signing_date_never_falls_back_to_document_date[\\u043f\\u043e\\u0434\\u043f\\u0438\\u0441\\u0430\\u043d\\u043e \\u043e\\u0431\\u0435\\u0438\\u043c\\u0438 \\u0441\\u0442\\u043e\\u0440\\u043e\\u043d\\u0430\\u043c\\u0438 01.02.2030 \\u0438\\u043b\\u0438 02.02.2030.-ambiguous]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_parser",
+      "name": "test_signing_date_never_falls_back_to_document_date[\\u043f\\u043e\\u0434\\u043f\\u0438\\u0441\\u0430\\u043d\\u043e \\u043e\\u0431\\u0435\\u0438\\u043c\\u0438 \\u0441\\u0442\\u043e\\u0440\\u043e\\u043d\\u0430\\u043c\\u0438 \\u0432\\u0447\\u0435\\u0440\\u0430.-ambiguous]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_parser",
+      "name": "test_evidence_validator_rejects_tampering",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_presentation",
+      "name": "test_russian_value_formatting[value0-1 380 000 \\u20bd]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_presentation",
+      "name": "test_russian_value_formatting[value1-0 \\u20bd]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_presentation",
+      "name": "test_russian_value_formatting[value2-1 234,56 \\u20bd]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_presentation",
+      "name": "test_russian_value_formatting[value3-900 \\u20bd]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_presentation",
+      "name": "test_russian_value_formatting[value4-09.04.2032]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_presentation",
+      "name": "test_russian_value_formatting[None-\\u041d\\u0435\\u0442 \\u0434\\u0430\\u043d\\u043d\\u044b\\u0445]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_presentation",
+      "name": "test_russian_value_formatting[\\u041e\\u041e\\u041e \\xab\\u041f\\u043e\\u0441\\u0442\\u0430\\u0432\\u0449\\u0438\\u043a\\xbb-\\u041e\\u041e\\u041e \\xab\\u041f\\u043e\\u0441\\u0442\\u0430\\u0432\\u0449\\u0438\\u043a\\xbb]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_presentation",
+      "name": "test_review_never_displays_old_or_accidentally_retained_current_value",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_presentation",
+      "name": "test_summary_keeps_proposal_warning",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_presentation",
+      "name": "test_offsets_select_second_identical_quote_and_preserve_crlf",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_presentation",
+      "name": "test_all_user_html_is_escaped_in_context_and_full_viewer",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_presentation",
+      "name": "test_invalid_source_or_context_is_rejected",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_presentation",
+      "name": "test_batch_failure_is_atomic_and_recoverable",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_presentation",
+      "name": "test_empty_and_binary_documents_are_errors[]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_presentation",
+      "name": "test_empty_and_binary_documents_are_errors[  \\r\\n ]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_presentation",
+      "name": "test_empty_and_binary_documents_are_errors[hello\\x00world]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_presentation",
+      "name": "test_unexpected_extraction_error_also_blocks_batch",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_presentation",
+      "name": "test_fingerprint_changes_after_any_user_input_change",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_reliability",
+      "name": "test_contract_edge_matrix[new]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_reliability",
+      "name": "test_contract_edge_matrix[changed_base]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_reliability",
+      "name": "test_contract_edge_matrix[changed_amendment]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_reliability",
+      "name": "test_contract_edge_matrix[sequential]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_reliability",
+      "name": "test_contract_edge_matrix[same_date_conflict]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_reliability",
+      "name": "test_contract_edge_matrix[amount_only]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_reliability",
+      "name": "test_contract_edge_matrix[late_draft]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_reliability",
+      "name": "test_contract_edge_matrix[letter]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_reliability",
+      "name": "test_contract_edge_matrix[missing_base]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_reliability",
+      "name": "test_contract_edge_matrix[missing_specification]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_reliability",
+      "name": "test_contract_edge_matrix[ambiguous_link]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_reliability",
+      "name": "test_contract_edge_matrix[supplier_conflict]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_reliability",
+      "name": "test_contract_edge_matrix[signed_later]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_reliability",
+      "name": "test_contract_edge_matrix[unknown_effective]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_reliability",
+      "name": "test_contract_edge_matrix[duplicate]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_reliability",
+      "name": "test_contract_edge_matrix[same_name]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_reliability",
+      "name": "test_contract_edge_matrix[conflicting_values]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_reliability",
+      "name": "test_text_variants_have_exact_evidence[\\n-utf-8]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_reliability",
+      "name": "test_text_variants_have_exact_evidence[\\n-utf-8-sig]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_reliability",
+      "name": "test_text_variants_have_exact_evidence[\\n-cp1251]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_reliability",
+      "name": "test_text_variants_have_exact_evidence[\\n-koi8-r]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_reliability",
+      "name": "test_text_variants_have_exact_evidence[\\n-cp866]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_reliability",
+      "name": "test_text_variants_have_exact_evidence[\\r\\n-utf-8]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_reliability",
+      "name": "test_text_variants_have_exact_evidence[\\r\\n-utf-8-sig]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_reliability",
+      "name": "test_text_variants_have_exact_evidence[\\r\\n-cp1251]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_reliability",
+      "name": "test_text_variants_have_exact_evidence[\\r\\n-koi8-r]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_reliability",
+      "name": "test_text_variants_have_exact_evidence[\\r\\n-cp866]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_reliability",
+      "name": "test_unsupported_numeric_spacing_requires_review_instead_of_guessing",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_reliability",
+      "name": "test_long_document_and_html_remain_literal",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_reliability",
+      "name": "test_session_cache_invalidation_and_isolation",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_reliability",
+      "name": "test_limits_block_whole_batch_before_parsing[MAX_FILES]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_reliability",
+      "name": "test_limits_block_whole_batch_before_parsing[MAX_FILE_BYTES]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_reliability",
+      "name": "test_limits_block_whole_batch_before_parsing[MAX_BATCH_BYTES]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_reliability",
+      "name": "test_same_name_versions_have_distinct_source_labels",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_reliability",
+      "name": "test_duplicate_ambiguous_upload_does_not_duplicate_widget",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_reliability",
+      "name": "test_ui_over_limit_hides_previous_report",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_reliability",
+      "name": "test_repeated_bytes_under_new_name_and_encoding_are_explicit_duplicates",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_reliability",
+      "name": "test_ui_actions_do_not_reextract_and_new_session_is_independent",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_resolver",
+      "name": "test_acceptance_on_all_six_original_files",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_resolver",
+      "name": "test_filter_returns_current_deadline_and_retains_pending_proposal",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_resolver",
+      "name": "test_original_documents_before_on_and_after_effective_date[as_of0-amount0-deadline0]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_resolver",
+      "name": "test_original_documents_before_on_and_after_effective_date[as_of1-amount1-deadline1]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_resolver",
+      "name": "test_original_documents_before_on_and_after_effective_date[as_of2-amount2-deadline2]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_resolver",
+      "name": "test_future_effective_change_is_distinct_from_uncertain_change",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_resolver",
+      "name": "test_later_signature_prevents_backdating_until_actual_signing",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_resolver",
+      "name": "test_signature_date_missing_is_allowed_without_document_date_substitution",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_resolver",
+      "name": "test_invalid_signature_date_blocks_potential_change",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_resolver",
+      "name": "test_unsigned_changes_do_not_apply[kwargs0-unsigned_draft]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_resolver",
+      "name": "test_unsigned_changes_do_not_apply[kwargs1-unsigned_draft]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_resolver",
+      "name": "test_missing_amount_stays_missing_and_does_not_become_zero",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_resolver",
+      "name": "test_amount_only_amendment_preserves_deadline_and_supplier",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_resolver",
+      "name": "test_sequential_changes_resolve_per_field_not_per_document",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_resolver",
+      "name": "test_same_date_conflict_has_no_arbitrary_winner",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_resolver",
+      "name": "test_equal_values_at_same_date_keep_both_sources",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_resolver",
+      "name": "test_unconfirmed_applicability_blocks_only_potentially_affected_field[kwargs0]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_resolver",
+      "name": "test_unconfirmed_applicability_blocks_only_potentially_affected_field[kwargs1]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_resolver",
+      "name": "test_unconfirmed_applicability_blocks_only_potentially_affected_field[kwargs2]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_resolver",
+      "name": "test_unconfirmed_applicability_blocks_only_potentially_affected_field[kwargs3]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_resolver",
+      "name": "test_unknown_effective_date_remains_blocking_after_other_dated_changes",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_resolver",
+      "name": "test_later_unambiguous_change_supersedes_dated_conflict",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_resolver",
+      "name": "test_nonoperative_roles_inside_signed_amendment_are_not_applied",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_resolver",
+      "name": "test_old_value_in_signed_transfer_is_not_an_operative_conflict",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_resolver",
+      "name": "test_ambiguous_modified_field_does_not_silently_retain_previous_as_confirmed",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_resolver",
+      "name": "test_missing_specification_in_amendment_requires_review_not_fallback",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_resolver",
+      "name": "test_supplier_conflict_blocks_amendment_and_exposes_evidence",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_resolver",
+      "name": "test_ambiguous_links_are_not_attached_and_mark_affected_contracts",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_resolver",
+      "name": "test_unlinked_documents_are_returned_separately",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_resolver",
+      "name": "test_amendment_without_main_contract_does_not_create_confirmed_values",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_resolver",
+      "name": "test_multiple_main_contracts_are_not_chosen_by_input_order",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_resolver",
+      "name": "test_duplicate_upload_same_document_id_is_idempotent",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_resolver",
+      "name": "test_all_order_permutations_have_identical_results",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_resolver",
+      "name": "test_filename_changes_do_not_affect_resolution",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_resolver",
+      "name": "test_every_confirmed_value_and_history_step_has_original_evidence",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_resolver",
+      "name": "test_filter_omits_unconfirmed_deadline",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_resolver",
+      "name": "test_conflicting_document_ids_are_rejected",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_resolver",
+      "name": "test_corrupt_evidence_is_rejected_before_resolution",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_resolver",
+      "name": "test_independent_fields_changed_on_same_date_do_not_conflict",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_resolver",
+      "name": "test_uncertain_change_without_potential_terms_does_not_block_fields",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_resolver",
+      "name": "test_ambiguous_letter_link_is_reported_without_changing_current_terms",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_resolver",
+      "name": "test_ambiguous_future_amendment_link_does_not_block_present_value",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_resolver",
+      "name": "test_unavailable_main_contract_prevents_applying_amendment",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_resolver",
+      "name": "test_confirmed_and_uncertain_change_on_same_date_are_both_withheld",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_resolver",
+      "name": "test_ambiguity_in_baseline_can_be_replaced_by_explicit_later_term",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_resolver",
+      "name": "test_new_number_and_supplier_require_no_production_changes",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_resolver",
+      "name": "test_empty_input_and_explicit_date_parameter",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_resolver",
+      "name": "test_supplier_conflict_in_proposal_is_reported_without_changing_terms",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_semantics",
+      "name": "test_applied_transfer_keeps_context_without_false_rejection",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_semantics",
+      "name": "test_applied_transfer_and_separate_proposal_same_paragraph_are_distinct",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_semantics",
+      "name": "test_rejected_transfer_keeps_old_and_new_evidence",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_semantics",
+      "name": "test_letter_groups_dates_and_source_once",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_semantics",
+      "name": "test_draft_has_two_changes_in_one_document_card",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_semantics",
+      "name": "test_independent_proposals_in_one_paragraph_are_not_merged",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_semantics",
+      "name": "test_no_arithmetic_for_unknown_current_or_ambiguous_proposal",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_semantics",
+      "name": "test_ui_letter_has_one_quote_and_one_document_link",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_semantics",
+      "name": "test_grouped_quotes_preserve_html_crlf_and_exact_offsets",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_semantics",
+      "name": "test_current_and_history_each_render_shared_paragraph_once",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_semantics",
+      "name": "test_applied_and_proposed_same_document_card_contains_only_proposal",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_semantics",
+      "name": "test_future_agreement_with_proposal_does_not_lose_rejection_reason",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_status_ui",
+      "name": "test_example_colors",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_status_ui",
+      "name": "test_status_priority[resolved-False-confirmed]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_status_ui",
+      "name": "test_status_priority[resolved-True-proposal]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_status_ui",
+      "name": "test_status_priority[missing-True-missing]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_status_ui",
+      "name": "test_status_priority[requires_review-True-requires_review]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_status_ui",
+      "name": "test_review_wins_over_missing",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_status_ui",
+      "name": "test_only_identifier_cells_are_styled",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_status_ui",
+      "name": "test_zero_proposals_has_no_amber_container_or_false_explanation[False]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_status_ui",
+      "name": "test_zero_proposals_has_no_amber_container_or_false_explanation[True]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_status_ui",
+      "name": "test_proposal_count_is_cards_not_fact_candidates[1]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_status_ui",
+      "name": "test_proposal_count_is_cards_not_fact_candidates[2]",
+      "outcome": "passed"
+    },
+    {
+      "classname": "tests.test_status_ui",
+      "name": "test_colors_update_for_date_and_new_upload_without_selection_reparse",
+      "outcome": "passed"
+    }
+  ]
+}

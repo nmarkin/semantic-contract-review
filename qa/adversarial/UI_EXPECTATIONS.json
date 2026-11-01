@@ -1,0 +1,14 @@
+{
+  "chain_ui": "All six table snapshots must match MATRIX.json, with proposal color except red on March 11. No current old deadline on conflict; history remains separate.",
+  "source": "March 21 delivery source is H.txt, exact quote 10.05.2026; amount source E.txt, quote 1 250 000; full original paragraph and offsets must match.",
+  "cache": "Nine documents parsed/extracted once. Changing six review dates only recomputes resolution.",
+  "future_proposal": "On February 2 B (February 12) and D (February 25) must explicitly identify their future creation date in proposal status/explanation. Uploaded future proposals may remain visible.",
+  "historical_conflict": "On March 21 F/G conflict remains available but its card must identify it as historical or superseded by H; current deadline is resolved May 10.",
+  "proposal_grouping": "many_proposals has two independent change lines with two new dates, one document card, one source paragraph. mixed applies amount but leaves proposed deadline unapplied.",
+  "independent_proposal_count": "Before the separate count test: two standalone proposal sentences count as N=2, even when sharing one document card and paragraph. This follows stage 4.2A section 1; it differs from the previous stage's documented count of document cards. Do not change production behavior at this QA stage; report the discrepancy.",
+  "letter_delta": "C + B: current April 25, letter references April 20, proposes April 28. Show mismatch and +3 days, never +8 days.",
+  "filter": "At March 11 DEMO-900 is excluded even before 2031 because deadline is requires_review; at March 21 it appears before May 11.",
+  "export": "Summary must match independent expected states/values. Every internal source link resolves to a section with the original quote and file. F/G must not appear as applied history.",
+  "zero": "Neutral collapsed expander labelled Несогласованные изменения (0); opening shows Несогласованных изменений не обнаружено. No amber ancestor.",
+  "isolation": "Two sessions with identical upload names but base/same1 versus base/same2 retain independent 1100000 and 1200000 amounts and distinct Evidence."
+}

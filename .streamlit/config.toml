@@ -1,0 +1,25 @@
+[browser]
+gatherUsageStats = false
+
+[server]
+maxUploadSize = 2
+
+[client]
+toolbarMode = "minimal"
+
+[theme]
+base = "light"
+primaryColor = "#326B92"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F5F6F8"
+textColor = "#252A31"
+borderColor = "#E3E6EB"
+dataframeHeaderBackgroundColor = "#F5F6F8"
+font = "system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif"
+baseFontSize = 15
+headingFontSizes = ["2rem", "1.5rem", "1.2rem"]
+headingFontWeights = [600, 600, 600]
+metricValueFontSize = "1.75rem"
+metricValueFontWeight = 600
+baseRadius = "0.75rem"
+buttonRadius = "0.5rem"

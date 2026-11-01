@@ -1,0 +1,6 @@
+* text=auto
+# These byte-level inputs are frozen by SHA-256; never convert line endings.
+documents/*.txt -text
+qa/adversarial/documents/*.txt -text
+qa/adversarial/MATRIX.json -text
+qa/adversarial/INPUT_SHA256.json -text
